@@ -2,7 +2,7 @@
 
 Concept Studio
 
-Live Demo: https://alexandardm-concept.000webhostapp.com/
+Live Demo: https://thealexandar.github.io/Concept_Studio/
 
 Website Template for Design studio
 
